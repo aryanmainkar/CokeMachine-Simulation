@@ -1,6 +1,3 @@
-
-
-
 # CokeMachine-Simulation
 
 # MIT License
@@ -15,13 +12,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 This repository contains a Java implementation of a coke machine simulation program.
 
-#Table of Contents
-#Description
-#Prerequisites
-#Installation
-#Usage
-#Contributing
-#License
+ <h1 style="font-family: Arial; font-size: 12px; font-style: italic;">Table of Contents</h1>
+ <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Decription</h1>
+ <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Installation</h1>
+ <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Usage</h1>
+ <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Contributing</h1>
+ 
 
 #Description
 The CokeMachine class models a basic coke machine with a set inventory level, change level, and coke price. It can perform actions such as dispensing change, checking inventory levels, and selling a coke.
