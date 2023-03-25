@@ -12,8 +12,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 This repository contains a Java implementation of a coke machine simulation program.
 
- <h1 style="font-family: Arial; font-size: 12px; font-style: italic;">Table of Contents</h1>
- <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Decription</h1>
+ 
+ <h2 style="font-size: 18px;">Table of Contents</h2>
+ <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Description</h1>
  <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Installation</h1>
  <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Usage</h1>
  <h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Contributing</h1>
