@@ -59,14 +59,15 @@ This will prompt you to enter your payment. The program will then check if the p
 Selecting option 2 will prompt you to enter the number of cokes you want to add to the machine's inventory. If the machine already has the maximum inventory level, the restock will fail.</p>
 
 
-Add change
-Selecting option 3 will prompt you to enter the amount of change you want to add to the machine's change level. If the machine already has the maximum change capacity, the add change action will fail.
+<p>&#9733; Add change : 
+Selecting option 3 will prompt you to enter the amount of change you want to add to the machine's change level. If the machine already has the maximum change capacity, the add change action will fail.</p>
 
-Display Machine Info
-Selecting option 4 will display the current state of the coke machine, including its name, inventory level, change level, and the number of cokes sold.
+<p>&#9733; Display Machine Info : 
+Selecting option 4 will display the current state of the coke machine, including its name, inventory level, change level, and the number of cokes sold.</p>
 
-Walk away
-Selecting option 0 will exit the program.
+<p>&#9733; Walk away : 
+Selecting option 0 will exit the program.</p>
 
-#Contributing
+<h2 style="font-size: 18px;">Contributing</h2>
+
 Contributions to this project are welcome. To contribute, please fork this repository, create a feature branch, and submit a pull request.
