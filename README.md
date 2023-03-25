@@ -1,4 +1,4 @@
-# CokeMachine-Simulation
+# Coke Machine Simulation
 
 # MIT License
 
@@ -8,9 +8,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-<h1 style="font-family: Arial; font-size: 36px; font-style: italic;">Coke Machine Simulation</h1>
 
-This repository contains a Java implementation of a coke machine simulation program.
 
  
 <h2 style="font-size: 18px;">Table of Contents</h2>
@@ -22,7 +20,7 @@ This repository contains a Java implementation of a coke machine simulation prog
 
 <h2 style="font-size: 18px;">Description</h2>
 <ul>
-  <li>The CokeMachine class models a basic coke machine with a set inventory level, change level, and coke price. It can perform actions such as dispensing change, checking inventory levels, and selling a coke.</li>
+  <li>This repository contains a Java implementation of a coke machine simulation program.The CokeMachine class models a basic coke machine with a set inventory level, change level, and coke price. It can perform actions such as dispensing change, checking inventory levels, and selling a coke.</li>
   <li>The Code3_1001844964 class contains the main method for running the coke machine simulation. It presents the user with a menu of options to choose from, such as buying a coke or restocking the machine.</li>
 </ul>
 
